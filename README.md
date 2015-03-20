@@ -5,6 +5,10 @@ Freifunk Infoblatt für die Bürger, Politik und Unternehmen  in Bad Lippspringe
 
 ## Was ist Freifunk?
 
+Zitate hier raus: http://de.wikipedia.org/wiki/Freifunk
+Evtl. zumindest darauf hinweisen und Link einfügen
+
+
 
 
 ## Vorteile von Freifunk
