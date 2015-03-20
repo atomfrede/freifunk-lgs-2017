@@ -29,3 +29,10 @@ Evtl. zumindest darauf hinweisen und Link einfügen
 ## Wie ist der aktuelle Stand in Lippspringe, gibt es hier schon vergleichbares?
 
 ## Was benötige ich um mitzumachen?
+
+# Quellen
+
+* http://freifunk.net/
+* http://paderborn.freifunk.net/was-ist-freifunk/
+* http://paderborn.freifunk.net/mitmachen/
+* http://de.wikipedia.org/wiki/Freifunk
