@@ -13,6 +13,10 @@ Evtl. zumindest darauf hinweisen und Link einfügen
 
 ## Vorteile von Freifunk
 
+Freifunk ist frei von jeglichen kommerziellen Interessen. Jeder kann mitmachen und ein Teil des Netztes werden. Freifunk fördert die Teilhabe an der digitalen Gesellschaft, auch für Personen, die sich sonst keinen Internetanschluss leisten könnten. 
+
+Freifunk ist nicht nur freies WLAN, sondern mehr. Jeder Teilnehmer kann Dienste im Freifunk zur Verfügung stellen (Chats, Mail, Spiele, Websiten), sodass ein großes, von vielen Teilnehemern getragens Netz für alle einen Mehrwert bieten kann, als nur "kostenloses" Internet.
+
 ## Vorteile von Freifunk für die Stadt Bad Lippspringe und die Landesgartenschau 2017
 ### Nachhaltig
 ### Kostengünstig
