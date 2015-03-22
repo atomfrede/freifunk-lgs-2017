@@ -60,4 +60,4 @@ Leistungsfähigere Modelle kosten ca. 40€. Für Outdoor Installationen oder Ri
 
 [map-large]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/map-large.png
 [map-detail]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/gh-pages/img/map-detail.png
-[logo] https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/Coat_of_Arms_of_Bad_Lippspringe_wifi.png
+[logo]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/Coat_of_Arms_of_Bad_Lippspringe_wifi.png
