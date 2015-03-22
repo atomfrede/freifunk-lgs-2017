@@ -37,6 +37,7 @@ Als bundesweite, gemeinnützige Initiative sind zur Zeit (März 2015) knapp 160 
 Der aktuelle Ausbau (2015) in Bad Lippspringe ist noch nicht sehr weit fortgeschritten. Vereinzelt gibt es bereits dauerhafte Zugänge, von einer zuverlässigen, flächendeckenden Verfügbarkeit kann aber nocht nicht gesprochen werden. Dort ist die Nachbargemeinde [Schlangen zum Beispiel schon sehr viel weiter](http://paderborn.freifunk.net/wie-man-einer-bank-zu-freifunk-verhilft/). 
 
 ![Übersicht der Freifunk Knoten in Bad Lippspringe][map-large]
+![Detail in der Fußgängerzone][map-detail]
 
 Die technische Infrastruktur wird auch im Falle von Bad Lippspringe von Freifunk Paderborn zur Verfügung gestellt (wie in Schlangen). Die Paderborner Freifunker haben bereits Erfahrungen mit größeren Indoor und Outdoor Installationen, sodass hier das nötige Know-How zur Verfügung steht. Paderborn ist inzwischen nach Hamburg die zweitgrößte Freifunkcommunity in Deutschland.
 ## Was benötige ich um mitzumachen?
@@ -49,3 +50,4 @@ Die technische Infrastruktur wird auch im Falle von Bad Lippspringe von Freifunk
 * http://de.wikipedia.org/wiki/Freifunk
 
 [map-large]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/map-large.png
+[map-detail]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/gh-pages/img/map-detail.png
