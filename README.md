@@ -13,7 +13,7 @@ Evtl. zumindest darauf hinweisen und Link einfügen
 
 ## Vorteile von Freifunk
 
-Freifunk ist frei von jeglichen kommerziellen Interessen. Jeder kann mitmachen und ein Teil des Netztes werden. Freifunk fördert die Teilhabe an der digitalen Gesellschaft, auch für Personen, die sich sonst keinen Internetanschluss leisten könnten. 
+Freifunk ist frei von jeglichen kommerziellen Interessen. Jeder kann mitmachen und ein Teil des Netztes werden. Freifunk fördert die Teilhabe an der digitalen Gesellschaft, auch für Personen, die sich sonst [keinen Internetanschluss leisten könnten](http://paderborn.freifunk.net/freifunk-ueberwindet-grenzen/). 
 
 Freifunk ist nicht nur freies WLAN, sondern mehr. Jeder Teilnehmer kann Dienste im Freifunk zur Verfügung stellen (Chats, Mail, Spiele, Websiten), sodass ein großes, von vielen Teilnehemern getragens Netz für alle einen Mehrwert bieten kann, als nur "kostenloses" Internet.
 
@@ -43,7 +43,9 @@ Die technische Infrastruktur wird auch im Falle von Bad Lippspringe von Freifunk
 
 ## Was benötige ich um mitzumachen?
 
-Um bei [Freifunk mitzumachen](http://paderborn.freifunk.net/mitmachen/) benötigt man einen Router, der mit der Freifunk Firmware arbeitet. Das Standardmodell kostet 15€ (mit Spendenquittung direkt bei Freifunk) oder ca 19€ direkt fix und fertig eingerichtet beim [Computerladen Bad Lippspringe](https://www.facebook.com/DerComputerladenBadLippspringe/timeline) direkt am Rathaus.
+Um bei [Freifunk mitzumachen](http://paderborn.freifunk.net/mitmachen/) benötigt man einen Router, der mit der Freifunk Firmware arbeitet. Das Standardmodell kostet 15€ (mit Spendenquittung direkt bei Freifunk) oder ca 19€ direkt fix und fertig eingerichtet (mit Rechnung für Gewerbetreibende) beim [Computerladen Bad Lippspringe](https://www.facebook.com/DerComputerladenBadLippspringe/timeline) direkt am Rathaus. 
+
+Leistungsfähigere Modelle kosten ca. 40€. Für Outdoor Installationen oder Richtfunkstrecken liegt der Einstiegspreis bei ca. 75€ pro Gerät. Outdoorrouter sind gegen Wind und Wetter geschützt und können so z.B. große Flächen (Rathausplatz, Markplatz, Burgplatz) sehr gut abdecken. Je nach Modell sind diese für große Flächen oder lange Strecken ausgelegt, [sodass das Freifunknetz auch in entfernte Winkel verteilt werden kann](http://paderborn.freifunk.net/haxterpark-paderborn-unterstuetzt-freifunk-paderborn/)
 
 # Quellen
 
