@@ -49,6 +49,7 @@ Leistungsfähigere Modelle kosten ca. 40€. Für Outdoor Installationen oder Ri
 
 # Quellen und weiterführende Links
 
+* [Häufig gestellte Fragen](http://paderborn.freifunk.net/faq/)
 * http://freifunk.net/
 * http://paderborn.freifunk.net/was-ist-freifunk/
 * http://paderborn.freifunk.net/mitmachen/
