@@ -47,7 +47,7 @@ Um bei [Freifunk mitzumachen](http://paderborn.freifunk.net/mitmachen/) benötig
 
 Leistungsfähigere Modelle kosten ca. 40€. Für Outdoor Installationen oder Richtfunkstrecken liegt der Einstiegspreis bei ca. 75€ pro Gerät. Outdoorrouter sind gegen Wind und Wetter geschützt und können so z.B. große Flächen (Rathausplatz, Markplatz, Burgplatz) sehr gut abdecken. Je nach Modell sind diese für große Flächen oder lange Strecken ausgelegt, [sodass das Freifunknetz auch in entfernte Winkel verteilt werden kann](http://paderborn.freifunk.net/haxterpark-paderborn-unterstuetzt-freifunk-paderborn/)
 
-# Quellen
+# Quellen und weiterführende Links
 
 * http://freifunk.net/
 * http://paderborn.freifunk.net/was-ist-freifunk/
