@@ -1,7 +1,7 @@
 # Freifunk in Bad Lippspringe
-## Ein freies WLAN Netz von Bürgern für Bürger
-
 ![Freifunk für Bad Lippspringe][logo]
+
+## Ein freies WLAN Netz von Bürgern für Bürger
 
 Freifunk Infoblatt für die Bürger, Politik und Unternehmen  in Bad Lippspringe
 
@@ -57,6 +57,7 @@ Leistungsfähigere Modelle kosten ca. 40€. Für Outdoor Installationen oder Ri
 * http://paderborn.freifunk.net/mitmachen/
 * http://de.wikipedia.org/wiki/Freifunk
 * http://dercomputerladen-bali.de/
+* [Wappen Bad Lippspringe] (https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Bad_Lippspringe.svg)
 
 [map-large]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/map-large.png
 [map-detail]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/gh-pages/img/map-detail.png
