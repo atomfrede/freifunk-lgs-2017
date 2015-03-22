@@ -40,7 +40,10 @@ Der aktuelle Ausbau (2015) in Bad Lippspringe ist noch nicht sehr weit fortgesch
 ![Detail in der Fußgängerzone][map-detail]
 
 Die technische Infrastruktur wird auch im Falle von Bad Lippspringe von Freifunk Paderborn zur Verfügung gestellt (wie in Schlangen). Die Paderborner Freifunker haben bereits Erfahrungen mit größeren Indoor und Outdoor Installationen, sodass hier das nötige Know-How zur Verfügung steht. Paderborn ist inzwischen nach Hamburg die zweitgrößte Freifunkcommunity in Deutschland.
+
 ## Was benötige ich um mitzumachen?
+
+Um bei [Freifunk mitzumachen](http://paderborn.freifunk.net/mitmachen/) benötigt man einen Router, der mit der Freifunk Firmware arbeitet. Das Standardmodell kostet 15€ (mit Spendenquittung direkt bei Freifunk) oder ca 19€ direkt fix und fertig eingerichtet beim [Computerladen Bad Lippspringe](https://www.facebook.com/DerComputerladenBadLippspringe/timeline) direkt am Rathaus.
 
 # Quellen
 
@@ -48,6 +51,7 @@ Die technische Infrastruktur wird auch im Falle von Bad Lippspringe von Freifunk
 * http://paderborn.freifunk.net/was-ist-freifunk/
 * http://paderborn.freifunk.net/mitmachen/
 * http://de.wikipedia.org/wiki/Freifunk
+* http://dercomputerladen-bali.de/
 
 [map-large]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/map-large.png
 [map-detail]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/gh-pages/img/map-detail.png
