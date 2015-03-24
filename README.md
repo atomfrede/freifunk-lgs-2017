@@ -23,6 +23,9 @@ Freifunk ist nicht nur freies WLAN, sondern mehr. Jeder Teilnehmer kann Dienste 
 
 ## Vorteile von Freifunk für die Stadt Bad Lippspringe und die Landesgartenschau 2017
 ### Nachhaltig
+
+Das Freifunknetz wird von Freiwilligen betreiben, daher ist und bleibt die Installation auch nach der Landesgartenschau bestehen.
+
 ### Kostengünstig
 ### Lokal
 ### Was wären überhaupt die Alternativen zu Freifunk?
