@@ -27,6 +27,9 @@ Freifunk ist nicht nur freies WLAN, sondern mehr. Jeder Teilnehmer kann Dienste 
 Das Freifunknetz wird von Freiwilligen betreiben, daher ist und bleibt die Installation auch nach der Landesgartenschau bestehen.
 
 ### Kostengünstig
+
+Der Einstieg in Freifunk ist sehr günstig. Der Standardrouter kostet zwischen 15 und 19€. Es gibt (neben Strom für den Router) keine laufenden Kosten.
+
 ### Lokal
 ### Was wären überhaupt die Alternativen zu Freifunk?
 
