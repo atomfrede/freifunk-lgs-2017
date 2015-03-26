@@ -31,6 +31,9 @@ Das Freifunknetz wird von Freiwilligen betreiben, daher ist und bleibt die Insta
 Der Einstieg in Freifunk ist sehr günstig. Der Standardrouter kostet zwischen 15 und 19€. Es gibt (neben Strom für den Router) keine laufenden Kosten.
 
 ### Lokal
+
+Freifunk wir von Menschen betrieben, die in Bad Lippspringe wohnen und etwas der Gemeinschaft geben möchten und daher Interesse am Funktionieren des freien Netztes haben. Bei Problemen lässt sich im Allgemeinen schnell und unbürokratisch eine Lösung finden.
+
 ### Was wären überhaupt die Alternativen zu Freifunk?
 
 ## Hat Freifunk Nachteile?
