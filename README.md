@@ -7,7 +7,7 @@ Freifunk Infoblatt für die Bürger, Politik und Unternehmen  in Bad Lippspringe
 
 ## Was ist Freifunk?
 
-Freifunk hat zum Ziel, offene Funknetzwerke einzurichten und miteinander zu verbinden und einen freien (wie Freiheit) Datenaustausch durch die Luft (innerhalb des Freifunknetztes) zu ermöglichen. [Freifunk ist somit eine offene nicht-kommerzielle, hierarchielose Initiative für freie Funknetzwerke](http://paderborn.freifunk.net/was-ist-freifunk/).
+Freifunk hat zum Ziel, offene Funknetzwerke einzurichten und miteinander zu verbinden und einen freien (wie Freiheit) Datenaustausch durch die Luft (innerhalb des Freifunknetztes) zu ermöglichen. [Freifunk ist somit eine offene nicht-kommerzielle, hierarchielose Initiative für freie Funknetzwerke](http://paderborn.freifunk.net/was-ist-freifunk/). In [Berlin wird mit Unterstützung des Senats ein stadtweites Freifunknetz aufgebaut](http://de.wikipedia.org/wiki/Freifunk). Die Stadt stellt neben finanziellen Mitteln vor allem hohe Gebäude zur Verfügung, um Richtfunkstrecken zwischen Stadtteilen einzurichten.
 
 Zitate hier raus: http://de.wikipedia.org/wiki/Freifunk
 Evtl. zumindest darauf hinweisen und Link einfügen
