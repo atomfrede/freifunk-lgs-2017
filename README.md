@@ -36,10 +36,17 @@ Freifunk wir von Menschen betrieben, die in Bad Lippspringe wohnen und etwas der
 
 ### Was wären überhaupt die Alternativen zu Freifunk?
 
+Nahezu alle großen Telekommunikationsanbieter bieten eigene Hotspots an, einige auch Router für Geschäftsleute, die einen Hotspot bereitstellen. Hier gibt es jedoch zwei Nachteile, sowohl für die Nutzer als auch die Betreiber solcher Hotspots. Zum einen kostet die Benutzung in der Regel (z.B. 2€/Stunde) und man muss sich erst beim Anbieter anmelden. Auch die kosten für den Betreiber sind nicht unerheblich, da der größte deutsche Anbieter z.B. 40€/Monat für einen Hotspotrouter verlangt.
+
 ## Hat Freifunk Nachteile?
 
 ### Bestehen Risiken für Anbieter von Freifunk?
+
+Wenn man von freinem WLAN redet, denk man unweigerlich an die "Störerhaftung". Hier besteht mit Freifunk aber kein Risiko für den Betreiber eines Freifunkknotens. Jeglicher Internetverkehr wird über ein die technische Infrastruktur zunächst ins Ausland (Niederlande, Schweden) geleitet. Daher ist der einzelne Anschluss nicht zu identifizieren, es tritt immer freifunk.net e.V. als [Anbieter in Erscheinung](http://paderborn.freifunk.net/was-ist-freifunk/). 
+
 ### Bestehen Risiken für die Nutzer von Freifunk?
+
+Da das Freifunknetz nicht verschlüsselt ist, sollten Nutzer konsequent auf sichere Verbindungen setzen (https, VPN), damit sensible Daten nicht mitgelesen werden können. Wenn man sich an diese Regel hält, dann ist die Nutzung eines offenen WLANs ähnlich sicher wie die eines gesicherten Netzwerkes.
 
 ## Existiert so etwas schon in anderen Städten und wie sind dort die Erfahrungen?
 
