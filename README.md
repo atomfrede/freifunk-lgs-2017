@@ -19,7 +19,7 @@ Evtl. zumindest darauf hinweisen und Link einfügen
 
 Freifunk ist frei von jeglichen kommerziellen Interessen. Jeder kann mitmachen und ein Teil des Netztes werden. Freifunk fördert die Teilhabe an der digitalen Gesellschaft, auch für Personen, die sich sonst [keinen Internetanschluss leisten könnten](http://paderborn.freifunk.net/freifunk-ueberwindet-grenzen/). 
 
-Freifunk ist nicht nur freies WLAN, sondern mehr. Jeder Teilnehmer kann Dienste im Freifunk zur Verfügung stellen (Chats, Mail, Spiele, Websiten), sodass ein großes, von vielen Teilnehemern getragens Netz für alle [einen Mehrwert bieten kann](http://paderborn.freifunk.net/dienste/), als nur "kostenloses" Internet.
+Freifunk ist nicht nur freies WLAN, sondern mehr. Jeder Teilnehmer kann Dienste im Freifunk zur Verfügung stellen (Chats, Mail, Spiele, Websiten), sodass ein großes, von vielen Teilnehmern getragens Netz für alle [einen Mehrwert bieten kann](http://paderborn.freifunk.net/dienste/), als nur "kostenloses" Internet.
 
 ## Vorteile von Freifunk für die Stadt Bad Lippspringe und die Landesgartenschau 2017
 ### Nachhaltig
@@ -28,7 +28,7 @@ Das Freifunknetz wird von Freiwilligen betreiben, daher ist und bleibt die Insta
 
 ### Kostengünstig
 
-Der Einstieg in Freifunk ist sehr günstig. Der Standardrouter kostet zwischen 15 und 19€. Es gibt (neben Strom für den Router) keine laufenden Kosten.
+Der Einstieg in Freifunk ist sehr günstig. Der Standardrouter kostet zwischen 15 und 19€. Es gibt (neben Strom für den Router) keine laufenden Kosten. Für den Nutzer von Freifunk entstehen keine Kosten.
 
 ### Lokal
 
