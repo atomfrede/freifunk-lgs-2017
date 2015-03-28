@@ -9,6 +9,8 @@ Freifunk Infoblatt für die Bürger, Politik und Unternehmen  in Bad Lippspringe
 
 Freifunk hat zum Ziel, offene Funknetzwerke einzurichten und miteinander zu verbinden und einen freien (wie Freiheit) Datenaustausch durch die Luft (innerhalb des Freifunknetztes) zu ermöglichen. [Freifunk ist somit eine offene nicht-kommerzielle, hierarchielose Initiative für freie Funknetzwerke](http://paderborn.freifunk.net/was-ist-freifunk/). In [Berlin wird mit Unterstützung des Senats ein stadtweites Freifunknetz aufgebaut](http://de.wikipedia.org/wiki/Freifunk). Die Stadt stellt neben finanziellen Mitteln vor allem hohe Gebäude zur Verfügung, um Richtfunkstrecken zwischen Stadtteilen einzurichten.
 
+![Freifunk net logo][freifunk-logo]
+
 Zitate hier raus: http://de.wikipedia.org/wiki/Freifunk
 Evtl. zumindest darauf hinweisen und Link einfügen
 
@@ -80,3 +82,4 @@ Leistungsfähigere Modelle kosten ca. 40€. Für Outdoor Installationen oder Ri
 [map-large]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/map-large.png
 [map-detail]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/gh-pages/img/map-detail.png
 [logo]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/Coat_of_Arms_of_Bad_Lippspringe_wifi.png
+[freifunk-logo]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/243px-Freifunk.net.svg.png
