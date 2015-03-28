@@ -18,6 +18,11 @@ Freifunk ist frei von jeglichen kommerziellen Interessen. Jeder kann mitmachen u
 Freifunk ist nicht nur freies WLAN, sondern mehr. Jeder Teilnehmer kann Dienste im Freifunk zur Verfügung stellen (Chats, Mail, Spiele, Websiten), sodass ein großes, von vielen Teilnehmern getragens Netz für alle [einen Mehrwert bieten kann](http://paderborn.freifunk.net/dienste/), als nur "kostenloses" Internet.
 
 ## Vorteile von Freifunk für die Stadt Bad Lippspringe und die Landesgartenschau 2017
+
+Durch ein flächendeckendes WLAN können Besuchern der Landesgartenschau viele Dienste (z.B. Multimediaführung, Führungen in verschiedenen Sprachen etc) dort angeboten werden wo sie sind: An ihrem Smartphone/Tablet. Durch die Nutzung des WLANs können ebenfalls Inhalte von hoher Qualität (Videos, Bilder, Audio) vielen Besuchern zugänglich gemacht werden, ohne auf das LTE/UMTS Netz zurückzugreifen mit den üblichen Restriktionen (Empfangsqualität, Überlastung des Netzes). 
+
+Durch ein freies WLAN Netz und moderne multimediale Inhalte kann sich Bad Lippspringe über die Region hinaus als moderne und offene Stadt präsentieren, die am Puls der Zeit agiert.
+
 ### Nachhaltig
 
 Das Freifunknetz wird von Freiwilligen betreiben, daher ist und bleibt die Installation auch nach der Landesgartenschau bestehen.
