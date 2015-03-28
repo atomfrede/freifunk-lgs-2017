@@ -90,4 +90,4 @@ Leistungsfähigere Modelle kosten ca. 40€. Für Outdoor Installationen oder Ri
 [logo]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/Coat_of_Arms_of_Bad_Lippspringe_wifi.png
 [freifunk-logo]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/243px-Freifunk.net.svg.png
 [freifunk-technik]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/03-freiffunk-router-mit-gaesten2.png
-[freifunk-router](https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/FreifunkKnotenGluon-300x300.jpeg)
+[freifunk-router]: https://raw.githubusercontent.com/atomfrede/freifunk-lgs-2017/master/images/FreifunkKnotenGluon-300x300.jpeg
