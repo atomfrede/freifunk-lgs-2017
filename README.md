@@ -11,12 +11,6 @@ Freifunk hat zum Ziel, offene Funknetzwerke einzurichten und miteinander zu verb
 
 ![Freifunk net logo][freifunk-logo]
 
-Zitate hier raus: http://de.wikipedia.org/wiki/Freifunk
-Evtl. zumindest darauf hinweisen und Link einfügen
-
-
-
-
 ## Vorteile von Freifunk
 
 Freifunk ist frei von jeglichen kommerziellen Interessen. Jeder kann mitmachen und ein Teil des Netztes werden. Freifunk fördert die Teilhabe an der digitalen Gesellschaft, auch für Personen, die sich sonst [keinen Internetanschluss leisten könnten](http://paderborn.freifunk.net/freifunk-ueberwindet-grenzen/). 
@@ -74,9 +68,10 @@ Leistungsfähigere Modelle kosten ca. 40€. Für Outdoor Installationen oder Ri
 # Quellen und weiterführende Links
 
 * [Häufig gestellte Fragen](http://paderborn.freifunk.net/faq/)
+* [Freifunk Paderborn in der Presse](http://paderborn.freifunk.net/presse/)
 * http://freifunk.net/
-* http://paderborn.freifunk.net/was-ist-freifunk/
-* http://paderborn.freifunk.net/mitmachen/
+* [Was ist Freifunk](http://paderborn.freifunk.net/was-ist-freifunk/)
+* [Mitmachen bei Freifunk Paderborn](http://paderborn.freifunk.net/mitmachen/)
 * http://de.wikipedia.org/wiki/Freifunk
 * http://dercomputerladen-bali.de/
 * [Wappen Bad Lippspringe] (https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Bad_Lippspringe.svg)
