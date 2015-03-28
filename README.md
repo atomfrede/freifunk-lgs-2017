@@ -1,4 +1,4 @@
-# Freifunk in Bad Lippspringe
+# Freifunk in Bad Lippspringe zur LGS 2017
 ![Freifunk für Bad Lippspringe][logo]
 
 ## Ein freies WLAN Netz von Bürgern für Bürger
