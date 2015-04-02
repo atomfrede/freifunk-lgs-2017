@@ -21,7 +21,7 @@ Freifunk ist nicht nur freies WLAN, sondern mehr. Jeder Teilnehmer kann Dienste 
 
 Durch ein flächendeckendes WLAN können Besuchern der Landesgartenschau viele Dienste (z.B. Multimediaführung, Führungen in verschiedenen Sprachen etc) dort angeboten werden wo sie sich gerade befinden: Über ihr Smartphone/Tablet. Durch die Nutzung des WLANs können ebenfalls Inhalte von hoher Qualität (Videos, Bilder, Audio) vielen Besuchern zugänglich gemacht werden, ohne auf das LTE/UMTS Netz zurückzugreifen mit den üblichen Restriktionen (Empfangsqualität, Überlastung des Netzes). 
 
-Durch ein freies WLAN Netz und moderne multimediale Inhalte kann sich Bad Lippspringe über die Region hinaus als moderne und offene Stadt präsentieren, die am Puls der Zeit agiert.
+Durch ein freies WLAN Netz und moderne multimediale Inhalte kann sich Bad Lippspringe über die Region hinaus als moderne und offene Stadt präsentieren, die am Puls der Zeit agiert. Für Geschäfte, die Freifunk anbieten, ergeben sich Vorteile dadurch, dass Kunden WLAN angeboten werden kann und dadurch mediale Präsenz entsteht.
 
 ### Nachhaltig
 
