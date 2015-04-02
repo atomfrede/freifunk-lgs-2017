@@ -25,7 +25,7 @@ Durch ein freies WLAN Netz und moderne multimediale Inhalte kann sich Bad Lippsp
 
 ### Nachhaltig
 
-Das Freifunknetz wird von Freiwilligen betreiben, daher ist und bleibt die Installation auch nach der Landesgartenschau bestehen. Damit wird dauerhaft zur Attraktivität der Innenstadt beigetragen.
+Das Freifunknetz wird von Freiwilligen betrieben, daher ist und bleibt die Installation auch nach der Landesgartenschau bestehen. Damit wird dauerhaft zur Attraktivität der Innenstadt beigetragen.
 
 ### Kostengünstig
 
@@ -35,7 +35,9 @@ Der Einstieg in Freifunk ist sehr günstig. Der Standardrouter kostet zwischen 1
 
 Freifunk wir von Menschen betrieben, die in Bad Lippspringe wohnen und etwas der Gemeinschaft geben möchten und daher Interesse am Funktionieren des freien Netztes haben. Bei Problemen lässt sich im Allgemeinen schnell und unbürokratisch eine Lösung finden.
 
-### Was wären überhaupt die Alternativen zu Freifunk?
+## Kann ein freiwillig bereitgestelltes Funknetzwerk überhaupt stabil laufen? Wie sieht zu Zeiten von vielen Nutzern ,z.B. während der Landesgartenschau, aus?
+
+## Was wären überhaupt die Alternativen zu Freifunk?
 
 Nahezu alle großen Telekommunikationsanbieter bieten eigene Hotspots an, einige auch Router für Geschäftsleute, die einen Hotspot bereitstellen. Hier gibt es jedoch zwei Nachteile, sowohl für die Nutzer als auch die Betreiber solcher Hotspots. Zum einen kostet die Benutzung in der Regel (z.B. 2€/Stunde) und man muss sich erst beim Anbieter anmelden. Auch die kosten für den Betreiber sind nicht unerheblich, da der größte deutsche Anbieter z.B. 40€/Monat für einen Hotspotrouter verlangt.
 
