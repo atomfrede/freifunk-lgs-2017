@@ -7,7 +7,7 @@ Freifunk Infoblatt für die Bürger, Politik und Unternehmen  in Bad Lippspringe
 
 ## Was ist Freifunk?
 
-Freifunk hat zum Ziel, offene Funknetzwerke einzurichten und miteinander zu verbinden und einen freien (wie Freiheit) Datenaustausch durch die Luft (innerhalb des Freifunknetztes) zu ermöglichen. [Freifunk ist somit eine offene nicht-kommerzielle, hierarchielose Initiative für freie Funknetzwerke](http://paderborn.freifunk.net/was-ist-freifunk/). In [Berlin wird mit Unterstützung des Senats ein stadtweites Freifunknetz aufgebaut](http://de.wikipedia.org/wiki/Freifunk). Die Stadt stellt neben finanziellen Mitteln vor allem hohe Gebäude zur Verfügung, um Richtfunkstrecken zwischen Stadtteilen einzurichten.
+Freifunk hat zum Ziel, offene Funknetzwerke einzurichten und miteinander zu verbinden und einen freien (wie Freiheit) Datenaustausch durch die Luft (innerhalb des Freifunknetztes) zu ermöglichen. [Freifunk ist somit eine offene nicht-kommerzielle, hierarchielose Initiative für freie Funknetzwerke](http://paderborn.freifunk.net/was-ist-freifunk/). 
 
 ![Freifunk net logo][freifunk-logo]
 
@@ -51,7 +51,7 @@ Da das Freifunknetz nicht verschlüsselt ist, sollten Nutzer konsequent auf sich
 
 ## Existiert so etwas schon in anderen Städten und wie sind dort die Erfahrungen?
 
-Als bundesweite, gemeinnützige Initiative sind zur Zeit (März 2015) knapp 160 lokale Freifunkgruppen aktiv. Insgesamt werden in Deutschland durch Freifunk mehr als 11.000 offene WLAN Hotspots betrieben. Im März 2015 lag die Gesamtanzahl von offenen WLAN Hotspots in Deutschland bei [knapp 15.000](http://www.netzwelt.de/news/150067-wlan-hotspots-funknetze-bieten-kostenlosen-zugang.html). Der Großteil dieser Zugänge wird von Freiwilligen betrieben. [Die größten Freifunknetze gibt es in Berlin, Paderborn, Münster und Bielefeld](http://freifunk.net/wie-mache-ich-mit/community-finden/).
+Als bundesweite, gemeinnützige Initiative sind zur Zeit (März 2015) knapp 160 lokale Freifunkgruppen aktiv. Insgesamt werden in Deutschland durch Freifunk mehr als 11.000 offene WLAN Hotspots betrieben. Im März 2015 lag die Gesamtanzahl von offenen WLAN Hotspots in Deutschland bei [knapp 15.000](http://www.netzwelt.de/news/150067-wlan-hotspots-funknetze-bieten-kostenlosen-zugang.html). Der Großteil dieser Zugänge wird von Freiwilligen betrieben. [Die größten Freifunknetze gibt es in Berlin, Paderborn, Münster und Bielefeld](http://freifunk.net/wie-mache-ich-mit/community-finden/). In [Berlin wird mit Unterstützung des Senats ein stadtweites Freifunknetz aufgebaut](http://de.wikipedia.org/wiki/Freifunk). Die Stadt stellt neben finanziellen Mitteln vor allem hohe Gebäude zur Verfügung, um Richtfunkstrecken zwischen Stadtteilen einzurichten.
 
 ## Wie ist der aktuelle Stand in Lippspringe, gibt es hier schon Vergleichbares?
 
