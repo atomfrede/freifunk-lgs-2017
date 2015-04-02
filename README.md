@@ -13,19 +13,19 @@ Freifunk hat zum Ziel, offene Funknetzwerke einzurichten und miteinander zu verb
 
 ## Vorteile von Freifunk
 
-Freifunk ist frei von jeglichen kommerziellen Interessen. Jeder kann mitmachen und ein Teil des Netztes werden. Freifunk fördert die Teilhabe an der digitalen Gesellschaft, auch für Personen, die sich sonst [keinen Internetanschluss leisten könnten](http://paderborn.freifunk.net/freifunk-ueberwindet-grenzen/). 
+Freifunk ist frei von jeglichen kommerziellen Interessen. Jeder kann mitmachen und ein Teil des Netzes werden. Freifunk fördert die Teilhabe an der digitalen Gesellschaft, auch für Personen, die sich sonst [keinen Internetanschluss leisten könnten](http://paderborn.freifunk.net/freifunk-ueberwindet-grenzen/). 
 
-Freifunk ist nicht nur freies WLAN, sondern mehr. Jeder Teilnehmer kann Dienste im Freifunk zur Verfügung stellen (Chats, Mail, Spiele, Websiten), sodass ein großes, von vielen Teilnehmern getragens Netz für alle [einen Mehrwert bieten kann](http://paderborn.freifunk.net/dienste/), als nur "kostenloses" Internet.
+Freifunk ist nicht nur freies WLAN, sondern mehr. Jeder Teilnehmer kann Dienste im Freifunk zur Verfügung stellen (Chats, Mail, Spiele, Websiten), sodass ein großes, von vielen Teilnehmern getragens Netz für alle [einen Mehrwert bieten kann](http://paderborn.freifunk.net/dienste/) als nur "kostenloses" Internet.
 
 ## Vorteile von Freifunk für die Stadt Bad Lippspringe und die Landesgartenschau 2017
 
-Durch ein flächendeckendes WLAN können Besuchern der Landesgartenschau viele Dienste (z.B. Multimediaführung, Führungen in verschiedenen Sprachen etc) dort angeboten werden wo sie sind: An ihrem Smartphone/Tablet. Durch die Nutzung des WLANs können ebenfalls Inhalte von hoher Qualität (Videos, Bilder, Audio) vielen Besuchern zugänglich gemacht werden, ohne auf das LTE/UMTS Netz zurückzugreifen mit den üblichen Restriktionen (Empfangsqualität, Überlastung des Netzes). 
+Durch ein flächendeckendes WLAN können Besuchern der Landesgartenschau viele Dienste (z.B. Multimediaführung, Führungen in verschiedenen Sprachen etc) dort angeboten werden wo sie sich gerade befinden: Über ihr Smartphone/Tablet. Durch die Nutzung des WLANs können ebenfalls Inhalte von hoher Qualität (Videos, Bilder, Audio) vielen Besuchern zugänglich gemacht werden, ohne auf das LTE/UMTS Netz zurückzugreifen mit den üblichen Restriktionen (Empfangsqualität, Überlastung des Netzes). 
 
 Durch ein freies WLAN Netz und moderne multimediale Inhalte kann sich Bad Lippspringe über die Region hinaus als moderne und offene Stadt präsentieren, die am Puls der Zeit agiert.
 
 ### Nachhaltig
 
-Das Freifunknetz wird von Freiwilligen betreiben, daher ist und bleibt die Installation auch nach der Landesgartenschau bestehen.
+Das Freifunknetz wird von Freiwilligen betreiben, daher ist und bleibt die Installation auch nach der Landesgartenschau bestehen. Damit wird dauerhaft zur Attraktivität der Innenstadt beigetragen.
 
 ### Kostengünstig
 
@@ -51,9 +51,9 @@ Da das Freifunknetz nicht verschlüsselt ist, sollten Nutzer konsequent auf sich
 
 ## Existiert so etwas schon in anderen Städten und wie sind dort die Erfahrungen?
 
-Als bundesweite, gemeinnützige Initiative sind zur Zeit (März 2015) knapp 160 lokale Freifunkgruppen aktiv. Insgesamt werden in Deutschland durch Freifunk mehr als 11.000 offene WLAN Hotspots betrieben. Im März 2015 lag die Gesamtanzahl von offenen WLAN Hotspots in Deutschland bei [knapp 15.000](http://www.netzwelt.de/news/150067-wlan-hotspots-funknetze-bieten-kostenlosen-zugang.html). Der Großteil dieser Zugänge wird als von freiwilligen betrieben. [Die größten Freifunknetze gibt es in Berlin, Paderborn, Münster und Bielefeld](http://freifunk.net/wie-mache-ich-mit/community-finden/).
+Als bundesweite, gemeinnützige Initiative sind zur Zeit (März 2015) knapp 160 lokale Freifunkgruppen aktiv. Insgesamt werden in Deutschland durch Freifunk mehr als 11.000 offene WLAN Hotspots betrieben. Im März 2015 lag die Gesamtanzahl von offenen WLAN Hotspots in Deutschland bei [knapp 15.000](http://www.netzwelt.de/news/150067-wlan-hotspots-funknetze-bieten-kostenlosen-zugang.html). Der Großteil dieser Zugänge wird von Freiwilligen betrieben. [Die größten Freifunknetze gibt es in Berlin, Paderborn, Münster und Bielefeld](http://freifunk.net/wie-mache-ich-mit/community-finden/).
 
-## Wie ist der aktuelle Stand in Lippspringe, gibt es hier schon vergleichbares?
+## Wie ist der aktuelle Stand in Lippspringe, gibt es hier schon Vergleichbares?
 
 Der aktuelle Ausbau (2015) in Bad Lippspringe ist noch nicht sehr weit fortgeschritten. Vereinzelt gibt es bereits dauerhafte Zugänge, von einer zuverlässigen, flächendeckenden Verfügbarkeit kann aber nocht nicht gesprochen werden. Dort ist die Nachbargemeinde [Schlangen zum Beispiel schon sehr viel weiter](http://paderborn.freifunk.net/wie-man-einer-bank-zu-freifunk-verhilft/). 
 
