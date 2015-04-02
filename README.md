@@ -7,7 +7,7 @@ Freifunk Infoblatt für die Bürger, Politik und Unternehmen  in Bad Lippspringe
 
 ## Was ist Freifunk?
 
-Freifunk hat zum Ziel, offene Funknetzwerke einzurichten und miteinander zu verbinden und einen freien (wie Freiheit) Datenaustausch durch die Luft (innerhalb des Freifunknetztes) zu ermöglichen. [Freifunk ist somit eine offene nicht-kommerzielle, hierarchielose Initiative für freie Funknetzwerke](http://paderborn.freifunk.net/was-ist-freifunk/). 
+Freifunk hat zum Ziel, offene Funknetzwerke einzurichten und miteinander zu verbinden, um dadurch einen freien  Datenaustausch durch die Luft (innerhalb des Freifunknetztes) zu ermöglichen. [Freifunk ist somit eine offene nicht-kommerzielle, hierarchielose Initiative für freie Funknetzwerke](http://paderborn.freifunk.net/was-ist-freifunk/). 
 
 ![Freifunk net logo][freifunk-logo]
 
@@ -35,8 +35,6 @@ Der Einstieg in Freifunk ist sehr günstig. Der Standardrouter kostet zwischen 1
 
 Freifunk wir von Menschen betrieben, die in Bad Lippspringe wohnen und etwas der Gemeinschaft geben möchten und daher Interesse am Funktionieren des freien Netztes haben. Bei Problemen lässt sich im Allgemeinen schnell und unbürokratisch eine Lösung finden.
 
-## Kann ein freiwillig bereitgestelltes Funknetzwerk überhaupt stabil laufen? Wie sieht zu Zeiten von vielen Nutzern ,z.B. während der Landesgartenschau, aus?
-
 ## Was wären überhaupt die Alternativen zu Freifunk?
 
 Nahezu alle großen Telekommunikationsanbieter bieten eigene Hotspots an, einige auch Router für Geschäftsleute, die einen Hotspot bereitstellen. Hier gibt es jedoch zwei Nachteile, sowohl für die Nutzer als auch die Betreiber solcher Hotspots. Zum einen kostet die Benutzung in der Regel (z.B. 2€/Stunde) und man muss sich erst beim Anbieter anmelden. Auch die kosten für den Betreiber sind nicht unerheblich, da der größte deutsche Anbieter z.B. 40€/Monat für einen Hotspotrouter verlangt.
@@ -50,6 +48,8 @@ Wenn man von freinem WLAN redet, denk man unweigerlich an die "Störerhaftung". 
 ### Bestehen Risiken für die Nutzer von Freifunk?
 
 Da das Freifunknetz nicht verschlüsselt ist, sollten Nutzer konsequent auf sichere Verbindungen setzen (https, VPN), damit sensible Daten nicht mitgelesen werden können. Wenn man sich an diese Regel hält, dann ist die Nutzung eines offenen WLANs ähnlich sicher wie die eines gesicherten Netzwerkes.
+
+### Kann ein freiwillig bereitgestelltes Funknetzwerk überhaupt stabil laufen? Wie sieht es zu Zeiten mit sehr vielen Nutzern ,z.B. während der Landesgartenschau, aus?
 
 ## Existiert so etwas schon in anderen Städten und wie sind dort die Erfahrungen?
 
