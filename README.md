@@ -49,7 +49,15 @@ Wenn man von freinem WLAN redet, denk man unweigerlich an die "Störerhaftung". 
 
 Da das Freifunknetz nicht verschlüsselt ist, sollten Nutzer konsequent auf sichere Verbindungen setzen (https, VPN), damit sensible Daten nicht mitgelesen werden können. Wenn man sich an diese Regel hält, dann ist die Nutzung eines offenen WLANs ähnlich sicher wie die eines gesicherten Netzwerkes.
 
-### Kann ein freiwillig bereitgestelltes Funknetzwerk überhaupt stabil laufen? Wie sieht es zu Zeiten mit sehr vielen Nutzern ,z.B. während der Landesgartenschau, aus?
+### Kann ein freiwillig bereitgestelltes Funknetzwerk überhaupt stabil laufen? 
+
+Die Geschwindigkeit eines Knotens hängt von vielen Faktoren ab. Zum Beispiel wie schnell die Anbindung ans "normale" Internet ist (der sog. Uplink). Die Freifunksoftware und Standardknoten haben sich als sehr zuverlässig erwiesen. Natürlich gibt es, je nach Modell gewisse Grenzen, in denen der Knoten optimal arbeitet.
+
+### Wie sieht es zu Zeiten mit sehr vielen Nutzern, z.B. während der Landesgartenschau, aus?
+
+Auch hier gilt, ein Knoten kann natürlich nicht unendlich viele Benutzer gleichzeitig bedienen, sodass bei vielen gleichzeitigen Users die Geschwindigkeit leiden kann. Dies betrifft vor allem das Standardmodell. Das größere Indoormodell hat mit vielen gleichzeitigen Verbindungen keine Probleme. Die verschiednene Outdoormodelle zur Versorgung von größeren Plätzen können ebenfalls viele gleichzeitige Verbindungen verkraften. 
+
+Im letzten Jahr konnte sich die Infrastruktur von Freifunk Paderborn bereits beweisen: Ein einzelner Outdoorknoten hat währende der Fußball-WM den Franz-Stock-Platz während der Public Viewings zuverlässig mit freiem WLAN versorgt. Zu Libori konnte das selbe Modell den Liboriberg am Rosentor auch zu Hochzeiten ohne Ausfall versorgen.
 
 ## Existiert so etwas schon in anderen Städten und wie sind dort die Erfahrungen?
 
