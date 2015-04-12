@@ -43,7 +43,7 @@ Nahezu alle großen Telekommunikationsanbieter bieten eigene Hotspots an, einige
 
 ### Bestehen Risiken für Anbieter von Freifunk?
 
-Wenn man von freinem WLAN redet, denk man unweigerlich an die "Störerhaftung". Hier besteht mit Freifunk aber kein Risiko für den Betreiber eines Freifunkknotens. Jeglicher Internetverkehr wird über ein sog. VPN (Virtual Private Network) zunächst ins Ausland (Niederlande, Schweden) geleitet. Der Freifunk e.V. hat dort Verträge mit lokalen Internet Providern, die den Freifunktraffic weiterleiten. Daher ist der einzelne Anschluss nicht zu identifizieren, es tritt immer freifunk.net e.V. als [Anbieter in Erscheinung](http://paderborn.freifunk.net/was-ist-freifunk/). 
+Wenn man von freinem WLAN redet, denk man unweigerlich an die "Störerhaftung". Hier besteht mit Freifunk aber kein Risiko für den Betreiber eines Freifunkknotens. Jeglicher Internetverkehr wird über ein sog. VPN (Virtual Private Network) zunächst ins Ausland (Niederlande, Schweden) geleitet. Der Freifunk e.V. hat dort Verträge mit lokalen Internetanbietern, die den Freifunkverkehr weiterleiten. Daher ist der einzelne Anschluss nicht zu identifizieren, es tritt immer freifunk.net e.V. als [Anbieter in Erscheinung](http://paderborn.freifunk.net/was-ist-freifunk/). 
 
 ### Bestehen Risiken für die Nutzer von Freifunk?
 
