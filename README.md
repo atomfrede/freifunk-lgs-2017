@@ -55,7 +55,7 @@ Die Geschwindigkeit eines Knotens hängt von vielen Faktoren ab. Zum Beispiel wi
 
 ### Wie sieht es zu Zeiten mit sehr vielen Nutzern, z.B. während der Landesgartenschau, aus?
 
-Auch hier gilt, ein Knoten kann natürlich nicht unendlich viele Benutzer gleichzeitig bedienen, sodass bei vielen gleichzeitigen Users die Geschwindigkeit leiden kann. Dies betrifft vor allem das Standardmodell. Das größere Indoormodell hat mit vielen gleichzeitigen Verbindungen keine Probleme. Die verschiednene Outdoormodelle zur Versorgung von größeren Plätzen können ebenfalls viele gleichzeitige Verbindungen verkraften. 
+Auch hier gilt: ein Knoten kann natürlich nicht unendlich viele Benutzer gleichzeitig bedienen, sodass bei vielen gleichzeitigen Users die Geschwindigkeit leiden kann. Dies betrifft vor allem das Standardmodell. Das größere Indoormodell hat mit vielen gleichzeitigen Verbindungen keine Probleme. Die verschiednene Outdoormodelle zur Versorgung von größeren Plätzen können ebenfalls viele gleichzeitige Verbindungen verkraften. 
 
 Im letzten Jahr konnte sich die Infrastruktur von Freifunk Paderborn bereits beweisen: Ein einzelner Outdoorknoten hat währende der Fußball-WM den Franz-Stock-Platz während der Public Viewings zuverlässig mit freiem WLAN versorgt. Zu Libori konnte das selbe Modell den Liboriberg am Rosentor auch zu Hochzeiten ohne Ausfall versorgen.
 
