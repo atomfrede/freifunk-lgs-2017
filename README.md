@@ -51,7 +51,7 @@ Da das Freifunknetz nicht verschlüsselt ist, sollten Nutzer konsequent auf sich
 
 ### Kann ein freiwillig bereitgestelltes Funknetzwerk überhaupt stabil laufen? 
 
-Die Geschwindigkeit eines Knotens hängt von vielen Faktoren ab. Zum Beispiel wie schnell die Anbindung ans "normale" Internet ist (der sog. Uplink). Die Freifunksoftware und Standardknoten haben sich als sehr zuverlässig erwiesen. Natürlich gibt es, je nach Modell gewisse Grenzen, in denen der Knoten optimal arbeitet.
+Die Geschwindigkeit eines Knotens hängt von vielen Faktoren ab. Zum Beispiel wie schnell die Anbindung ans "normale" Internet ist (der sog. Uplink). Die Freifunksoftware und Standardknoten haben sich als sehr zuverlässig erwiesen. Natürlich gibt es, je nach Modell, gewisse Grenzen, in denen der Knoten optimal arbeitet.
 
 ### Wie sieht es zu Zeiten mit sehr vielen Nutzern, z.B. während der Landesgartenschau, aus?
 
